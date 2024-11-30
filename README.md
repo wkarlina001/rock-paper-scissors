@@ -1,3 +1,12 @@
-# rock-paper-scissors
+# Project: Rock Paper Scissors
 
-Create Rock Paper Scissors game in Javascript
+## Aim: 
+To create an implementation of rock paper scissors game using Javascript and HTML.
+
+## Preview:
+![alt text](./img/preview.png)
+
+## Technologies:
+* Javascript
+* HTML
+
